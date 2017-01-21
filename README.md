@@ -2,9 +2,8 @@
 An MQTT approach to the remote of Hyperion for the Openelec distribution. My main objective was to integrate Home-Assistant and have topics to handle HSV colors as well (homebridge for IOS).
 As I'm a big fan of the [Homie convention](https://github.com/marvinroger/homie) I'm using the Homie-python module.
 
-![home-assistant](https://raw.githubusercontent.com/MrBramme/Mqtt-Hyperion-Remote/master/pics/home-assistant.jpg "Home-assistant")
-
-![homebridge](https://raw.githubusercontent.com/MrBramme/Mqtt-Hyperion-Remote/master/pics/homebridge.jpg "Homebridge")
+<img src="https://raw.githubusercontent.com/MrBramme/Mqtt-Hyperion-Remote/master/pics/home-assistant.jpg" height="200" />
+<img src="https://raw.githubusercontent.com/MrBramme/Mqtt-Hyperion-Remote/master/pics/homebridge.jpg" height="100" />
 
 ## Assumption
 - you have a dedicated raspberry pi running Openelec: [Openelec site](http://openelec.tv/get-openelec)
