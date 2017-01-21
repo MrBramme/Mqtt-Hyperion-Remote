@@ -3,6 +3,7 @@ An MQTT approach to the remote of Hyperion for the Openelec distribution. My mai
 As I'm a big fan of the [Homie convention](https://github.com/marvinroger/homie) I'm using the Homie-python module.
 
 ![home-assistant](https://raw.githubusercontent.com/MrBramme/Mqtt-Hyperion-Remote/master/pics/home-assistant.jpg "Home-assistant")
+
 ![homebridge](https://raw.githubusercontent.com/MrBramme/Mqtt-Hyperion-Remote/master/pics/homebridge.jpg "Homebridge")
 
 ## Assumption
