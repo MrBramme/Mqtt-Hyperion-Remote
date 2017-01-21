@@ -48,6 +48,7 @@ To reset from color to screen grabbing, toggle off and on.
 Warning: Since I don't want to reduce global brightness when setting a color, we will create 2 controls for homebridge! One for color and one for global brightness.
   1. Add this plugin to homebridge: [mqttlightbulb](https://github.com/ameeuw/homebridge-mqttlightbulb)
   2. Set the config as follows
+
   ```json
   {
           "accessory": "mqttlightbulb",
@@ -69,6 +70,7 @@ Warning: Since I don't want to reduce global brightness when setting a color, we
           }
   }
   ```
+
   After this you'll have 2 buttons on homekit:
   - The one from Home-assistant (if you have the homebridge plugin) that can be used to turn on/off and set global brightness
   - The one we just set up which can be used to set the color of the system and turn it on/off.
